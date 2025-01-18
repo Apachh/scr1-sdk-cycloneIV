@@ -7,7 +7,3 @@
 [submodule "sw/sc-bl"]
 	path = sw/sc-bl
 	url = https://github.com/syntacore/sc-bl
-[submodule "sw/zephyr"]
-	path = sw/zephyr
-	url = https://github.com/syntacore/zephyr
-	branch = scr1
